@@ -16,7 +16,7 @@ icon: fa6-solid:check-to-slot
 2. 泡杯咖啡，准备早餐，开始第一个工作番茄。
 3. 工作 25 分钟休息 5 分钟，休息期间完成每日必须：拍照打卡发 SNS，吃早餐。
 4. 每天最低完成 8 个番茄，之后可进入长休息区间，进行家务打扫、健身、娱乐。
-5. 傻逼玩意。
+5.
 
 [Huberman Lab](https://hubermanlab.com/sleep-toolkit-tools-for-optimizing-sleep-and-sleep-wake-timing/) 建议早晨不一定需要进食，可以到中午再进食，改变身体的新陈代谢周期；醒来后两到四小时再摄入咖啡因，并尽量避免在午后摄入咖啡因，以防下午的 cafferine crush。请根据个人情况灵活调整计划。
 
